@@ -1,6 +1,12 @@
 # blog
 
 This is a personal blog app which uses sprign boot as backend framework and angular 6 as front end. Setup guide is as follows.
+✓ Blog consist of posting articles with tinyMCE editor. 
+✓ View them in home page.
+✓ Taging
+✓
+✓
+✓
 
 ## Development
 
